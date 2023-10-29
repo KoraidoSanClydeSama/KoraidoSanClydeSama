@@ -93,5 +93,5 @@
 
 ###
 <a href="https://imgflip.com/i/84243w"><img src="https://i.imgflip.com/84243w.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
-<iframe src="https://giphy.com/embed/mt28mSMgCDldmDwoP4" width="480" height="466" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ilgeru-il-geru-bambino-mt28mSMgCDldmDwoP4">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:97%;position:relative;"><iframe src="https://giphy.com/embed/mt28mSMgCDldmDwoP4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/ilgeru-il-geru-bambino-mt28mSMgCDldmDwoP4">via GIPHY</a></p>
 
